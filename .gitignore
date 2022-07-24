@@ -1,0 +1,10 @@
+*.pfx
+*.suo
+*.user
+bin/
+obj/
+.vs/
+/Msi
+packages/
+*.psess
+*.pyc
